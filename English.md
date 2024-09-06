@@ -53,16 +53,10 @@
 - Some files may not be compressible to the specified size. The program will get as close as possible to the target size.
 - Ensure you have enough disk space to save the compressed file.
 
-## 🤝 Contributing
 
-Bug reports and improvement suggestions are welcome! If you'd like to contribute to this project, feel free to submit a Pull Request.
 
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-<p align="center">
-  Made with ❤️ by Your Name/Organization
-</p>
