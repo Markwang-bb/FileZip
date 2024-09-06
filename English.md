@@ -1,8 +1,8 @@
 <h1 align="center">FileZip 📁🔐 </h1>
 <div align="center">
 <p align="center">
-  <a href="./README.md">中文</a>｜
-  <a href="./English.md">英文</a>
+  <a href="./README.md">Chinese</a>｜
+  <a href="./English.md">English</a>
 </p>
 
 > A simple yet powerful desktop application that makes file compression a breeze.

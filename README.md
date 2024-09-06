@@ -1,8 +1,8 @@
 <h1 align="center">FileZip 📁🔐 </h1>
 <div align="center">
 <p align="center">
-  <a href="./README.md">中文</a>｜
-  <a href="./English.md">英文</a>
+  <a href="./README.md">Chinese</a>｜
+  <a href="./English.md">English</a>
 </p>
 
 > 一款简单而强大的桌面应用程序，让文件压缩变得轻松自如。
